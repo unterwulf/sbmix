@@ -1,0 +1,14 @@
+SBMIX, Copyright (c) 2024 by Vitaly Sinilin <vs@kp4.ru>. All rights reserved.
+Published under the terms of the MIT License.
+
+SBMIX makes it possible to control SB16-compatible sound card mixer
+settings right from DOS command prompt.
+
+It should work on anything compatible with Intel i8086 processor
+and MS-DOS 2.0.
+
+It's inspired by the same name utility by BTTR software [1]. In contrast
+with the latter this version is written in pure Assembly (NASM), not
+in Pascal, so the size is about two times smaller.
+
+[1] https://www.bttr-software.de/products/sbmix/
